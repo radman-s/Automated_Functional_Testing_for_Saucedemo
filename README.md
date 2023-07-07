@@ -2,6 +2,12 @@
 
 This project contains an automated test scenario for the SauceDemo website using Selenium and Python.
 
+## Prerequisites
+
+- Python 3.x installed
+- Selenium WebDriver library installed (`pip install selenium`)
+- Chrome WebDriver executable installed and in the system PATH
+
 ## Setup
 
 1. Clone the repository to your local machine.
